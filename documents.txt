@@ -1,0 +1,4 @@
+cargo new demo
+rustup --version
+rustc build
+cargo new
